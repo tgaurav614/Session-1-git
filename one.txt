@@ -3,3 +3,5 @@ Add
 commit 
 push 
 Acp
+
+git restore 
